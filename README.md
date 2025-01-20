@@ -5,17 +5,17 @@
 
 | student | rad | link | 
 |---|---|---|
-|Bruno Baburić         | | |
+|Bruno Baburić         | minesweeper | |
 |Domagoj Birkić        | | |
-|Igor Breški           | | |
+|Igor Breški           | aparat za kavu | |
 |Mislav Ćavarušić      | | |
 |Ivan Ceranac          | | |
 |Fran Habijanić        | | |
-|Viktor Mihovil Kronja | | |
-|Ivan Pijević          | | |
+|Viktor Mihovil Kronja | tic-tac-toe | |
+|Ivan Pijević          | space invaders | |
 |Tomislav Prstec       | | |
-|Rudolf Raspudić       | | |
-|Marko Šeparović       | | |
-|Kristijan Žalac       | | |
+|Rudolf Raspudić       | (music) notes trainer | |
+|Marko Šeparović       | lisnica | |
+|Kristijan Žalac       | speed typing | |
 
 </details>
