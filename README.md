@@ -19,3 +19,20 @@
 |Kristijan Žalac       | speed typing | |
 
 </details>
+
+### Uputstva
+
+Prijava teme
+- tema seminarskog rada se prijavljuje na zadnjim laboratorijskim vježbama
+- svaki student prijavljuje svoju temu, samo u iznimnim situacijama (vrlo složene aplikacije) dva studenta rade isti rad
+- tema rada se ne može mijenjati, osim u iznimnim situacijama uz dogovor sa predavačem
+- nema konačnog roka do kojeg se seminarski rad mora predati, nakon završetka rada ocjena se upisuje na prvi sljedeći ispitni rok 
+
+Pisanje rada
+- komunikacija sa predavačem je isključivo e-mailom (nenad.caklovic@vsite.hr)
+- prije početka pisanja rada student šalje kratki opis planirane funkcionalnosti aplikacije i tehnologija koje će se koristiti
+- nakon što predavač potvrdi plan, student može početi sa radom i šalje link na Github repozitorij
+- repozitorij uključuje skriptu (Github Actions) za build projekta i pokretanje unit testova
+- readme.md u root-u repozitorija sadrži upute za pokretanje aplikacije (ako je potrebno) i upute za korištenje
+- predavač provjerava funkcionalnost i upotrebljivost verzije i pregledava projekt, šalje zamjerke na izgled i ponašanje programa i source projekta
+- kada program pokriva kompletnu planiranu funkcionalnost i predavač nema više zamjerki na projekt, verzija se proglašava završnom
