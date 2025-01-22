@@ -6,7 +6,7 @@
 | student | rad | link | 
 |---|---|---|
 |Bruno Baburić         | minesweeper | |
-|Domagoj Birkić        | | |
+|Domagoj Birkić        | hangman | |
 |Igor Breški           | aparat za kavu | |
 |Mislav Ćavarušić      | | |
 |Ivan Ceranac          | | |
