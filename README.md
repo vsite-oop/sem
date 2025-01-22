@@ -3,20 +3,20 @@
 <details open>
   <summary style="font-size: 1.5em;"><b>2025</b></summary>
 
-| student | rad | link | 
-|---|---|---|
-|Bruno Baburić         | minesweeper | |
-|Domagoj Birkić        | | |
-|Igor Breški           | aparat za kavu | |
-|Mislav Ćavarušić      | | |
-|Ivan Ceranac          | | |
-|Fran Habijanić        | | |
-|Viktor Mihovil Kronja | tic-tac-toe | |
-|Ivan Pijević          | space invaders | |
-|Tomislav Prstec       | | |
-|Rudolf Raspudić       | (music) notes trainer | |
-|Marko Šeparović       | lisnica | |
-|Kristijan Žalac       | speed typing | |
+| student | rad | 
+|---|---|
+|Bruno Baburić         | minesweeper |
+|Domagoj Birkić        | hangman |
+|Igor Breški           | aparat za kavu |
+|Mislav Ćavarušić      | |
+|Ivan Ceranac          | |
+|Fran Habijanić        | |
+|Viktor Mihovil Kronja | tic-tac-toe |
+|Ivan Pijević          | space invaders |
+|Tomislav Prstec       | |
+|Rudolf Raspudić       | (music) notes trainer |
+|Marko Šeparović       | [lisnica](https://github.com/Markot4/Lisnica) |
+|Kristijan Žalac       | speed typing |
 
 </details>
 
