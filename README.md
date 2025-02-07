@@ -5,18 +5,18 @@
 
 | student | rad | 
 |---|---|
-|Bruno Baburić         | minesweeper |
-|Domagoj Birkić        | hangman |
-|Igor Breški           | aparat za kavu |
-|Mislav Ćavarušić      | |
-|Ivan Ceranac          | |
-|Fran Habijanić        | |
-|Viktor Mihovil Kronja | tic-tac-toe |
-|Ivan Pijević          | space invaders |
-|Tomislav Prstec       | |
-|Rudolf Raspudić       | (music) notes trainer |
-|Marko Šeparović       | [lisnica](https://github.com/Markot4/Lisnica) |
-|Kristijan Žalac       | speed typing |
+| Bruno Baburić         | minesweeper |
+| Domagoj Birkić        | hangman |
+| Igor Breški           | aparat za kavu |
+| Mislav Ćavarušić      | |
+| Ivan Ceranac          | |
+| Fran Habijanić        | |
+| Viktor Mihovil Kronja | tic-tac-toe |
+| Ivan Pijević          | space invaders |
+| Tomislav Prstec       | blackjack |
+| Rudolf Raspudić       | (music) notes trainer |
+| Marko Šeparović       | [lisnica](https://github.com/Markot4/Lisnica) |
+| Kristijan Žalac       | speed typing |
 
 </details>
 
